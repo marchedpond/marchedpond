@@ -22,7 +22,7 @@ Josue Mejia</a></h1>
 
 - 💬 Experto en **Electronica**
 
-- 📫 Cómo contactarme: **00000921@uca.edu.sv**
+- 📫 Cómo contactarme: **josuemejiacc@gmail.com**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Como contactarme 🤝 </h3>
 
@@ -53,4 +53,4 @@ Josue Mejia</a></h1>
 
 Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
 
-Last Edited on: 25/04/2024
+Last Edited on: 09/11/2025
