@@ -10,7 +10,7 @@ Josue Mejia</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Actualmente estoy trabajando en [Proyectos personales](https://github.com/00000921)
+- 🔭 Actualmente estoy trabajando en [Proyectos personales](https://github.com/marchedpond)
 
 - 🌱 Actualmente estoy aprendiendo desarrollo de aplicaciones móviles con Kotlin
 
@@ -31,7 +31,7 @@ Josue Mejia</a></h1>
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/josue-alfredo-mejia-urias-595337243/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/00000921">
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/marchedpond">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/josue._.mj/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
