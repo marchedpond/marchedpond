@@ -29,7 +29,7 @@ Josue Mejia</a></h1>
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/josue-alfredo-mejia-urias-595337243/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/josu%C3%A9-alfredo-mej%C3%ADa-urias-a70a3b368/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/marchedpond">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
