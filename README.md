@@ -12,7 +12,7 @@ Josue Mejia</a></h1>
 
 - 🔭 Actualmente estoy trabajando en [Proyectos personales](https://github.com/marchedpond)
 
-- 🌱 Actualmente estoy aprendiendo desarrollo de aplicaciones móviles con Kotlin
+- 🌱 Actualmente estoy aprendiendo tecnologias para la Inteligencia de Negocios
 
 - 🤝 Estoy disponible para trabajos freelance
 
