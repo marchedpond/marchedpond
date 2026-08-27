@@ -92,9 +92,12 @@ Me motiva resolver problemas complejos, automatizar procesos e impulsar proyecto
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marchedpond&show_icons=true&theme=github_dark&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchedpond&layout=compact&theme=github_dark&hide_border=true" alt="Lenguajes principales" />
+  <img src="https://github-stats-extended.vercel.app/api?username=marchedpond&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="Estadísticas de GitHub" />
+  &nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=marchedpond&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Lenguajes principales" />
 </p>
+
+
 
 ---
 
