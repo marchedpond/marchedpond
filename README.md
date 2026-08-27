@@ -6,19 +6,22 @@
   </a>
 
   <p>
-    📍 <b>El Salvador</b> &nbsp;|&nbsp; 💼 <b>Soporte Técnico Corporativo para Tigo El Salvador</b> <i>(Stefanini)</i>
+    📍 <b>El Salvador</b> &nbsp;|&nbsp; 💻 <b>Desarrollo Web · APIs · Datos · IA</b>
   </p>
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👋 Sobre mí
 
-¡Hola! Soy egresado de **Ingeniería Informática** en la **UCA (El Salvador)** y me apasiona construir soluciones tecnológicas eficientes, conectar sistemas y convertir datos en valor operativo.
+¡Hola! Soy egresado de Ingeniería Informática y me apasiona construir soluciones tecnológicas que conecten sistemas y conviertan ideas en productos funcionales.
 
-Actualmente me desenvuelvo en el área de **Soporte Técnico Corporativo para Tigo El Salvador** (vía Stefanini), diagnosticando redes, monitoreando infraestructura crítica y coordinando incidencias empresariales. En paralelo, desarrollo proyectos de ingeniería enfocados en aplicaciones web modernas, arquitectura de APIs, análisis de datos y la integración de inteligencia artificial.
+Me enfoco principalmente en el desarrollo web, la construcción de APIs, el manejo y análisis de datos y la exploración de soluciones con Inteligencia Artificial.
 
-Me motiva resolver problemas complejos, automatizar procesos e impulsar proyectos con impacto real.
+🚀 Actualmente continúo desarrollando proyectos y fortaleciendo mis conocimientos en tecnologías modernas.
+
+💡 Me motiva aprender, resolver problemas y crear soluciones con impacto real.
+
 
 ---
 
