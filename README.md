@@ -104,12 +104,9 @@ Me motiva resolver problemas complejos, automatizar procesos e impulsar proyecto
 ## 🐍 Contribuciones
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marchedpond/marchedpond/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marchedpond/marchedpond/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/marchedpond/marchedpond/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones Snake" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/marchedpond/marchedpond/output/github-contribution-grid-snake-dark.svg" alt="Animación de contribuciones Snake" />
 </p>
+
 
 ---
 
